@@ -1,0 +1,1 @@
+test| Epoch 0| loss=0.296  dice=0.705  true_dice=0.7121573286982921| 
